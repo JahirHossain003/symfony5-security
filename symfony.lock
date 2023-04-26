@@ -151,6 +151,9 @@
     "php": {
         "version": "7.2.5"
     },
+    "phpstan/phpstan": {
+        "version": "1.10.14"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },
