@@ -4,9 +4,9 @@ namespace App\Factory;
 
 use App\Entity\Question;
 use App\Repository\QuestionRepository;
-use Zenstruck\Foundry\RepositoryProxy;
 use Zenstruck\Foundry\ModelFactory;
 use Zenstruck\Foundry\Proxy;
+use Zenstruck\Foundry\RepositoryProxy;
 
 /**
  * @extends ModelFactory<Question>

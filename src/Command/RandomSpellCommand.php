@@ -56,7 +56,7 @@ class RandomSpellCommand extends Command
             $spell = strtoupper($spell);
         }
 
-        $this->logger->info('Casting spell: '.$spell);
+        $this->logger->info('Casting spell: ' . $spell);
 
         $io->success($spell);
 

@@ -4,9 +4,9 @@ namespace App\Factory;
 
 use App\Entity\Tag;
 use App\Repository\TagRepository;
-use Zenstruck\Foundry\RepositoryProxy;
 use Zenstruck\Foundry\ModelFactory;
 use Zenstruck\Foundry\Proxy;
+use Zenstruck\Foundry\RepositoryProxy;
 
 /**
  * @extends ModelFactory<Tag>

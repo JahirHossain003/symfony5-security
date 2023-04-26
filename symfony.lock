@@ -455,6 +455,9 @@
     "symfony/yaml": {
         "version": "v5.0.4"
     },
+    "symplify/easy-coding-standard": {
+        "version": "11.3.2"
+    },
     "twig/extra-bundle": {
         "version": "v3.0.1"
     },

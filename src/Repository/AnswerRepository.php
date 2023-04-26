@@ -51,7 +51,7 @@ class AnswerRepository extends ServiceEntityRepository
 
         if ($search) {
             $queryBuilder->andWhere('answer.content LIKE :searchTerm OR question.question LIKE :searchTerm')
-                ->setParameter('searchTerm', '%'.$search.'%');
+                ->setParameter('searchTerm', '%' . $search . '%');
         }
 
         return $queryBuilder

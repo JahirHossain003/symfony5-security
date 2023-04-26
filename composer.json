@@ -39,6 +39,7 @@
         "symfony/maker-bundle": "^1.15",
         "symfony/var-dumper": "5.3.*",
         "symfony/web-profiler-bundle": "5.3.*",
+        "symplify/easy-coding-standard": "^11.3",
         "zenstruck/foundry": "^1.1"
     },
     "config": {
