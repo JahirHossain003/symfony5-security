@@ -25,6 +25,10 @@
             {
                 "action": "vendor/bin/phpstan analyse",
                 "options": []
+            },
+            {
+                "action": "bin/phpunit",
+                "options": []
             }
         ]
     },
