@@ -33,6 +33,7 @@
         "twig/twig": "^2.12|^3.0"
     },
     "require-dev": {
+        "captainhook/captainhook": "^5.16",
         "doctrine/doctrine-fixtures-bundle": "^3.3",
         "phpstan/phpstan": "^1.10",
         "symfony/debug-bundle": "5.3.*",
